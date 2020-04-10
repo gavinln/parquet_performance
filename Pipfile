@@ -11,6 +11,7 @@ pyarrow = "*"
 pandas = "*"
 ipython = "*"
 jupyterlab = "*"
+twine = "*"
 
 [requires]
 python_version = "3.7"
